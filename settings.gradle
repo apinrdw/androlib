@@ -1,1 +1,1 @@
-include ':ganilib', ':ganiweb'
+include ':ganilib', ':ganiweb', ':ganimap'
